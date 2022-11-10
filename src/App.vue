@@ -16,9 +16,13 @@ export default {
 
 <template>
 
+
+
   <SiteHeader />
   <SiteMain />
   <SiteFooter />
+
+
 
 </template>
 
