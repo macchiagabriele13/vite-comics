@@ -5,6 +5,9 @@ export default {
 </script>
 
 <template>
+  <main>
+    <h1> --> Content Goes Here </h1>
+  </main>
 
 </template>
 
