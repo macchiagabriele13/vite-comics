@@ -1,0 +1,25 @@
+header {
+    background-color: lightcyan;
+
+    a {
+        text-transform: uppercase;
+        font-weight: bolder !important;
+        color: black !important;
+        font-size: 0.75rem !important;
+
+
+        &:hover {
+            border-bottom: 10px solid var(--bs-link-color);
+
+        }
+    }
+
+
+
+}
+
+img {
+    height: 75px;
+    object-fit: cover;
+    aspect-ratio: 1/1;
+}

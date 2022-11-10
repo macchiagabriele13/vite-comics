@@ -1,6 +1,6 @@
 <script>
 export default {
-  name: 'SiteHeader'
+  name: 'SiteMain'
 }
 </script>
 
