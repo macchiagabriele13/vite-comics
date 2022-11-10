@@ -1,0 +1,22 @@
+.section_footer_menu {
+    background-image: url(./assets/img/footer-bg.jpg);
+
+    .row {
+        width: 50%;
+    }
+
+    h2 {
+        color: white;
+        text-transform: uppercase;
+        font-size: 1.25rem !important;
+    }
+
+    ul {
+        padding-left: 0;
+    }
+
+    li {
+        list-style: none;
+        color: gray;
+    }
+}
