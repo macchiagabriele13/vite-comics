@@ -85,7 +85,7 @@ export default {
         <div class="signup">
           <a href="#" class="btn text-white border border-2 border-primary">SIGN-UP NOW!</a>
         </div>
-        <div class="socials d-flex justify-content-around">
+        <div class="socials d-flex justify-content-around align-items-center">
           <h3>FOLLOW US</h3>
           <a href="#"><img src="../assets/img/footer-facebook.png" alt=""></a>
           <a href="#"><img src="../assets/img/footer-twitter.png" alt=""></a>
