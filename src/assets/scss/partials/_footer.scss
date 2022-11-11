@@ -1,6 +1,12 @@
 .section_footer_menu {
     background-image: url(./assets/img/footer-bg.jpg);
 
+    .container {
+        background-image: url(./assets/img/dc-logo-bg.png);
+        background-position: right center;
+        background-repeat: no-repeat;
+    }
+
     .row {
         width: 50%;
     }

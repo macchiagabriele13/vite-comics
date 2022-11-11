@@ -7,9 +7,9 @@ export default {
 <template>
   <footer>
 
-    <div class="section_footer_menu py-5">
+    <div class="section_footer_menu">
       <div class="container">
-        <div class="row">
+        <div class="row py-5">
           <div class="col">
             <div class="footer_list">
               <h2>Dc comics</h2>
@@ -69,16 +69,12 @@ export default {
 
             </div>
           </div>
-          <div class="col">
-            <div class="footer_image">
-              <img src="../assets/img/dc-logo-bg.png" alt="">
 
-            </div>
-          </div>
         </div>
       </div>
-
     </div>
+
+
 
     <div class="social py-3">
       <div class="container d-flex justify-content-between">
