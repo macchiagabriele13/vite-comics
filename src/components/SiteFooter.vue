@@ -80,15 +80,20 @@ export default {
 
     </div>
 
-    <div class="social">
-      <div class="container d-flex justify-content-between align-center">
-        <button>Sign Up</button>
-
-        <div>
-          <h2>FOLLOW US</h2>
-          <a href="#"><i class="fas fa-facebook"></i></a>
+    <div class="social py-3">
+      <div class="container d-flex justify-content-between">
+        <div class="signup">
+          <a href="#" class="btn text-white border border-2 border-primary">SIGN-UP NOW!</a>
         </div>
+        <div class="socials d-flex justify-content-around">
+          <h3>FOLLOW US</h3>
+          <a href="#"><img src="../assets/img/footer-facebook.png" alt=""></a>
+          <a href="#"><img src="../assets/img/footer-twitter.png" alt=""></a>
+          <a href="#"><img src="../assets/img/footer-youtube.png" alt=""></a>
+          <a href="#"><img src="../assets/img/footer-pinterest.png" alt=""></a>
+          <a href="#"><img src="../assets/img/footer-periscope.png" alt=""></a>
 
+        </div>
       </div>
 
     </div>
